@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AlteHaasGrotesk_Bold';
+    src: url('alte-haas-grotesk_bold.eot');
+    src: url('alte-haas-grotesk_bold.eot?#iefix') format('embedded-opentype'),
+         url('alte-haas-grotesk_bold.woff2') format('woff2'),
+         url('alte-haas-grotesk_bold.woff') format('woff'),
+         url('alte-haas-grotesk_bold.svg#alte_haas_groteskbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
